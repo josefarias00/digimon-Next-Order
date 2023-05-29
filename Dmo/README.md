@@ -10,5 +10,3 @@
 - Modal para el boton de Watch Trailer
 
 #### 
-
-![](https://cdn02.nintendo-europe.com/media/images/10_share_images/games_15/wiiu_14/SI_WiiU_SuperMario3DWorld.jpg)
